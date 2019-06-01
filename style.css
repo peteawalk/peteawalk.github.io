@@ -2,5 +2,6 @@ body {
     background-color: #333;
     color: #eee;
     font-family: "Arial", "Helvetica", "sans-serif";
-    background-image: url ("");
+    background-image: url ("https://i.imgflip.com/26z3fo.jpg");
+    background-repeat: repeat-x; /*Repeat horizontally*/
 }
