@@ -5,3 +5,12 @@ body {
     background-image: url ("https://i.imgflip.com/26z3fo.jpg");
     background-repeat: repeat-x; /*Repeat horizontally*/
 }
+
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
